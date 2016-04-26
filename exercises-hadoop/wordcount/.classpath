@@ -76,5 +76,6 @@
 	<classpathentry kind="lib" path="/home/cloudera/lib/mrunit-0.9.0-incubating-hadoop2.jar"/>
 	<classpathentry kind="lib" path="/home/cloudera/lib/junit-4.11.jar"/>
 	<classpathentry kind="lib" path="/home/cloudera/lib/hamcrest-all-1.1.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop/client/htrace-core4.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
